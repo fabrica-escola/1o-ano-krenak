@@ -1,0 +1,14 @@
+Julia - A Guerreira (I), laranja, fogo.
+Luísa - A Bailarina (II), azul escuro, ar.
+Felipe - O Artífice (III) azul escuro, madeira.
+Tomé - O Mensageiro (IV)  verde, trovão.
+Cauã - O Nômade (V) roxo, éter.
+Alice - A Taciturna (VI) vermelho, terra.
+Miguel - O Maestro (VII) roxo, terra.
+Flora - A Capitã (VIII) amarelo, terra.
+Helena - A Louca (IX) vermelho, terra.
+Vitor - O Alfaiate (X) amarelo, trovão.
+Minami - A Mudança (XI) verde, água.
+Iuna - A Lua (XII) azul, fogo.
+Antonio - O Bobo da corte (XIII) azul, fogo.
+Théo - O Curandeiro (XIV) laranja, água.
