@@ -1,4 +1,4 @@
-# 1a-ano-krenak
+# 1o ano Krenak
 
 ### Projeto Oráculo
 
